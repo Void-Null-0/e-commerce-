@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: "A full-stack e-commerce solution with real-time inventory, Stripe payments, and an admin dashboard. Built with Next.js, Prisma, and Tailwind CSS.",
   keywords: ["e-commerce", "shop", "Next.js", "Prisma", "Stripe", "Tailwind CSS"],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+  icon: "/favicon.ico",
   },
 };
 
